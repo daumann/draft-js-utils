@@ -18,6 +18,8 @@ export const BLOCK_TYPE = {
 export const ENTITY_TYPE = {
   LINK: 'LINK',
   IMAGE: 'IMAGE',
+  VIDEO: 'VIDEO',
+  AUDIO: 'AUDIO',
 };
 
 export const INLINE_STYLE = {
